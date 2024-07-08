@@ -4,6 +4,7 @@
 - [StatQuest](https://www.youtube.com/@statquest)
 - [Krish Naik](https://www.youtube.com/@krishnaik06)
 - [Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Codebasics](https://www.youtube.com/@codebasics)
 
 ## Some important topics in ML what I have learned till now
 - Linear Regression
