@@ -6,12 +6,12 @@
 - [Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [Codebasics](https://www.youtube.com/@codebasics)
 
-## Some important topics in ML what I have learned till now
+## Some important topics in ML which I have learned till now: 
 - Linear Regression
 - Logistic Regression
 - Gradient Descent
 - K Nearest Neighbour
-- Support Vector Classifier
+- Support Vector Classifier/ Machines
 
 ## Some ML Frameworks
 - Scikit Learn
