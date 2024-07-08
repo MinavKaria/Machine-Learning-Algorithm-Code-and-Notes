@@ -1,7 +1,7 @@
 # ML Algorithm and Code 
 
 ## Youtube and other courses I haved been following
-- [StackQuest](https://www.youtube.com/@statquest)
+- [StatQuest](https://www.youtube.com/@statquest)
 - [Krish Naik](https://www.youtube.com/@krishnaik06)
 - [Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
