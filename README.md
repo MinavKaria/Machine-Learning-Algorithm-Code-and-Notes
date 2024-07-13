@@ -18,3 +18,4 @@
 - OpenCV ( Image Processing )
 - Numpy
 - Matplotlib
+- Pandas
