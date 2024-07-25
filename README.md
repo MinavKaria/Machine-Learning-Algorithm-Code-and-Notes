@@ -12,6 +12,10 @@
 - Gradient Descent
 - K Nearest Neighbour
 - Support Vector Classifier/ Machines
+- Decision Tree
+- RandomForest Classifier
+- Naive Bayes Classifier (Multinomial and Gaussian)
+- HyperTuning (GridSearchCV) 
 
 ## Some ML Frameworks
 - Scikit Learn
