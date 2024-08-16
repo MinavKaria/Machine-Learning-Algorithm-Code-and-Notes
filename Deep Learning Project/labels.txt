@@ -1,0 +1,4 @@
+0 Bacterial Virus
+1 Curl Virus
+2 Fussarium
+3 Healthy
